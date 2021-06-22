@@ -1,4 +1,4 @@
-print('ola mundo')
+print('ola mundo me chamno sergio')
 #teste no git e github#
 'git init  -->   para iniciar um repositorio'
 
